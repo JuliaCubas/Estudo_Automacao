@@ -5,6 +5,7 @@ Este repositório tem como objetivo armazenar arquivos e códigos relacionados �
 # Principais Scripts
 
 1. CompilarJSON.py
+
 Este script em Python tem a função de combinar múltiplos arquivos JSON em um único arquivo consolidado.
 
 - Lê e processa vários arquivos JSON.
