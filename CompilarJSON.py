@@ -29,7 +29,8 @@ def combinar_jsons(*arquivos_json, arquivo_saida="json_Resultados_combinados2.0.
     print(f"Arquivos combinados com sucesso em '{arquivo_saida}'.")
 
 combinar_jsons(
-    "./AtaJSON/Resultado_10187613_92837905910932024.json",
-    "./AtaJSON/Resultado_10206248_92837905900992024.json",
-    "./AtaJSON/Resultado_10248733_92837905901062024.json"
+    "AtaJSON/Resultado_1",
+    "AtaJSON/Resultado_2",
+    "AtaJSON/Resultado_3",
+    "AtaJSON/Resultado_4"
 )
